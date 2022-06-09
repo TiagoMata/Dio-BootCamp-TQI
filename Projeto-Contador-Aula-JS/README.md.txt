@@ -1,0 +1,1 @@
+Criando um projeto na aula de JavaScript para realizar um contador de numeros positivos e negativos.
